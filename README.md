@@ -1,2 +1,3 @@
 # ubuntu-discover
-Setup Discover script (leebaird) on ubuntu 
+this simple snippet  will install discover script ( backtrack ) on ubuntu .
+
